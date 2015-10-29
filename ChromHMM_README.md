@@ -26,7 +26,7 @@ java -mx20G -jar ChromHMM.jar BinarizeBed  -c ~/Documents/Histones/Inputs/ ~/.li
 
 java -mx20G -jar ChromHMM.jar LearnModel -i mESC -l CHROMSIZES/mm9.txt -printposterior -printstatebyline  ~/Documents/Histones/ChromHmm/BINARIZED_CTCF ~/Documents/Histones/ChromHmm/RESULTS/Learnmodel_20_CTCF 20 mm9
 
-# Only, intervals with a probability higher than 0.95 were considered for further analysis.
+# Only the intervals with a probability higher than 0.95 were considered for further analysis.
 
 4) BINARIZE CHROMATIN MODIFIERS DATA
 
