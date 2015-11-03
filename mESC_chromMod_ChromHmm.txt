@@ -94,6 +94,6 @@ mESC	BRG1	BRG1_GSE14344.fastq.bed.gz	input_GSE14344.fastq.bed.gz
 mESC	TAF1	TAF1_GSE36114.fastq.bed.gz	input_GSE36114.fastq.bed.gz
 mESC	MBD4	MBD4_GSE39610.fastq.bed.gz	input_GSE39610.fastq.bed.gz
 mESC	MECP2	MECP2_GSE39610.fastq.bed.gz	input_GSE39610.fastq.bed.gz
-mESC	Ezh2	Ezh2_0_GSE46536.fastq.bed.gz	input_0_GSE46536.fastq.bed.gz
-mESC	Ezh2	Ezh2_1_GSE46536.fastq.bed.gz	input_1_GSE46536.fastq.bed.gz
-mESC	G9	G9_1_GSE46536.fastq.bed.gz	input_1_GSE46536.fastq.bed.gz
+mESC	EZH2	Ezh2_0_GSE46536.fastq.bed.gz	input_0_GSE46536.fastq.bed.gz
+mESC	EZH2	Ezh2_1_GSE46536.fastq.bed.gz	input_1_GSE46536.fastq.bed.gz
+mESC	G9A	G9_1_GSE46536.fastq.bed.gz	input_1_GSE46536.fastq.bed.gz
