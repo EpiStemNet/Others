@@ -38,4 +38,12 @@ java -mx20G -jar ChromHMM.jar OverlapEnrichment ~/Documents/Histones/ChromHmm/RE
 
 6) ENRICHMENT PROBABILITIES FOR CHROMATIN MODIFIERS DATA
 
-java -mx20G -jar ChromHMM.jar OverlapEnrichment ~/Documents/Histones/ChromHmm/RESULTS/Learnmodel_20_CTCF/ESC_20_mESC_all_chrs_0-95_posterior.txt ~/Documents/Chrom_modifiers/BINARIZED/BINARIZED/Peaks/ ~/Documents/Histones/ChromHmm/RESULTS/Learnmodel_20_CTCF/enrichment_20_CTCF_0_95_chrom_mod
+java -mx20G -jar ChromHMM.jar OverlapEnrichment ~/Documents/Histones/ChromHmm/RESULTS/Learnmodel_20_CT
+
+# ChromNets analysis
+
+contact: dadejuan@cnio.es David de Juan. Structural Biology and BioComputing Programme, Spanish National Cancer Research Center - CNIO, Melchor Fernandez Almagro 3 28029 Madrid, Spain.
+
+##Files used:
+
+- 	CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt.gz --> Provided in http://ubio.bioinfo.cnio.es/data/mESC_CNIO/others/
