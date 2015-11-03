@@ -48,13 +48,14 @@ contact: dadejuan@cnio.es David de Juan. Structural Biology and BioComputing Pro
 -   get_chromnets.R --> Provided in https://github.com/ChromatinNetwork/Others/blob/master/get_chromnets.R
 -   ColocationNetwork.txt --> Provided in https://github.com/ChromatinNetwork/Others/blob/master/ColocationNetwork.txt
 - 	CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt.gz --> Provided in http://ubio.bioinfo.cnio.es/data/mESC_CNIO/others/
+
 ## Required software
 -   R version 3.1.2 (or later) from https://www.r-project.org/
 -   data.table R package version 1.9.4 (or later) from http://CRAN.R-project.org/package=data.table
 -   plyr R package from http://www.jstatsoft.org/v40/i01/
 -   pvclust R package version 1.3-2 (or later) from http://CRAN.R-project.org/package=pvclust
 
-1) EXTRACT CHROMNETS FROM CO-LOCATION NETWORK AND GENOME-WIDE LOCATION DATA FOR ALL EPIGENETIC FEATURES AND CHROMATIN STATES
+## Extract ChromNets from the co-location network and genome-wide location data for all epigenetic features and chromatin states
 
 Rscript get_chromnets.R ColocationNetwork.txt CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt \<output_file\>
 
