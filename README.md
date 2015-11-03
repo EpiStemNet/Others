@@ -46,7 +46,7 @@ contact: dadejuan@cnio.es David de Juan. Structural Biology and BioComputing Pro
 
 ##Files used:
 -   get_chromnets.R --> Provided in http://
--   hmscms_onlycombinets_2_nomask_NOBUG_hmsVScms_cmsVScms.txt --> Provided in http://
+-   ColocationNetwork.txt --> Provided in https://github.com/ChromatinNetwork/Others/blob/master/ColocationNetwork.txt
 - 	CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt.gz --> Provided in http://ubio.bioinfo.cnio.es/data/mESC_CNIO/others/
 ## Required software
 -   R version 3.1.2 (or later) from https://www.r-project.org/
@@ -56,8 +56,8 @@ contact: dadejuan@cnio.es David de Juan. Structural Biology and BioComputing Pro
 
 1) EXTRACT CHROMNETS FROM CO-LOCATION NETWORK AND GENOME-WIDE LOCATION DATA FOR ALL EPIGENETIC FEATURES AND CHROMATIN STATES
 
-Rscript get_chromnets.R hmscms_onlycombinets_2_nomask_NOBUG_hmsVScms_cmsVScms.txt CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt \<output_file\>
+Rscript get_chromnets.R ColocationNetwork.txt CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt \<output_file\>
 
 or
 
-Rscript get_chromnets.R hmscms_onlycombinets_2_nomask_NOBUG_hmsVScms_cmsVScms.txt CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt \<output_file\> \<pvalue\>
+Rscript get_chromnets.R ColocationNetwork.txt CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt \<output_file\> \<pvalue\>
