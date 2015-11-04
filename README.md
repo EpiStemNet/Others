@@ -55,7 +55,7 @@ contact: dadejuan@cnio.es David de Juan. Structural Biology and BioComputing Pro
 -   plyr R package from http://www.jstatsoft.org/v40/i01/
 -   pvclust R package version 1.3-2 (or later) from http://CRAN.R-project.org/package=pvclust
 
-## Extract ChromNets from the co-location network and genome-wide location data for all epigenetic features and chromatin states
+### Extract ChromNets from a co-location network and genome-wide location data for every epigenetic feature and chromatin states
 
 Rscript get_chromnets.R ColocationNetwork.txt CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt \<output_file\>
 
