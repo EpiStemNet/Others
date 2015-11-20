@@ -45,9 +45,9 @@ java -mx20G -jar ChromHMM.jar OverlapEnrichment ~/Documents/Histones/ChromHmm/RE
 contact: dadejuan@cnio.es David de Juan. Structural Biology and BioComputing Programme, Spanish National Cancer Research Center - CNIO, Melchor Fernandez Almagro 3 28029 Madrid, Spain.
 
 ##Files used:
--   get_chromnets.R --> Provided in https://github.com/ChromatinNetwork/Others/blob/master/get_chromnets.R
--   ColocationNetwork.txt --> Provided in https://github.com/ChromatinNetwork/Others/blob/master/ColocationNetwork.txt
-- 	CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt.gz --> Provided in http://ubio.bioinfo.cnio.es/data/mESC_CNIO/others/
+-   get_chromnets.R --> Provided in https://github.com/EpiStemNet/Others/blob/master/get_chromnets.R
+-   ColocationNetwork.txt --> Provided in https://github.com/EpiStemNet/Others/blob/master/ColocationNetwork.txt
+- 	CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt.gz --> Provided in http://epistemnet.bioinfo.cnio.es/others/
 
 ## Required software
 -   R version 3.1.2 (or later) from https://www.r-project.org/
