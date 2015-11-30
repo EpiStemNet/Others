@@ -11,7 +11,7 @@ contact: ecarrillo@cnio.es Enrique Carrillo de Santa Pau  Structural Biology and
 - mESC_chromHmm_CTCF.txt --> Provided (see ChromHMM manual for details http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
 - mESC_chromMod_ChromHmm.txt --> Provided (see ChromHMM manual for details http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
 - ESC_20_mESC_all_chrs_0-95_posterior.txt.gz -> Provided (see ChromHMM manual for details http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
-- BAM files with alignments --> Provided in http://ubio.bioinfo.cnio.es/data/mESC_CNIO/bam_files/
+- BAM files with alignments --> Provided in http://epistemnet.bioinfo.cnio.es/bam_files/
 
 
 1) BAM files were converted to BED files
