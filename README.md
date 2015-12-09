@@ -11,7 +11,7 @@ contact: ecarrillo@cnio.es Enrique Carrillo de Santa Pau  Structural Biology and
 - mESC_chromHmm_CTCF.txt --> Provided (see ChromHMM manual for details http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
 - mESC_chromMod_ChromHmm.txt --> Provided (see ChromHMM manual for details http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
 - ESC_20_mESC_all_chrs_0-95_posterior.txt.gz -> Provided (see ChromHMM manual for details http://compbio.mit.edu/ChromHMM/ChromHMM_manual.pdf)
-- BAM files with alignments --> Provided in http://epistemnet.bioinfo.cnio.es/bam_files/
+- BAM files with alignments --> Provided in http://epistemnet.bioinfo.cnio.es/download/bam_files/
 
 
 1) BAM files were converted to BED files
@@ -47,7 +47,7 @@ contact: dadejuan@cnio.es David de Juan. Structural Biology and BioComputing Pro
 ##Files used:
 -   get_chromnets.R --> Provided in https://github.com/EpiStemNet/Others/blob/master/get_chromnets.R
 -   ColocationNetwork.txt --> Provided in https://github.com/EpiStemNet/Others/blob/master/ColocationNetwork.txt
-- 	CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt.gz --> Provided in http://epistemnet.bioinfo.cnio.es/others/
+- 	CrPs_and_hM_cM_peaks_in_0-95_probability_segments.txt.gz --> Provided in http://epistemnet.bioinfo.cnio.es/download/others/
 
 ## Required software
 -   R version 3.1.2 (or later) from https://www.r-project.org/
